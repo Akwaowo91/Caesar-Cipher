@@ -33,6 +33,7 @@ print("I hope your are having a good day, I will be helping you encrypt and decr
 
 
 def play_game():
+    # This is the beginning of the code
     alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u',
                 'v', 'w', 'x', 'y', 'z']
 
